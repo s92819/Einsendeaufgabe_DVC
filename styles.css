@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    color: #2980b9; /* GitLab-Blau */
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul, ol {
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
